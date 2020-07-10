@@ -2,7 +2,6 @@
 
 Me chamo Leonardo Fiatkoski, atuo como Data Scientist 👨‍💻 e sou apaixonado por Code to Business. 
 
-- :octocat: Atuando como Data Scientist;
 - :computer: Bacharel em Sistemas de Informação;
 - :chart_with_upwards_trend: MBA em Business Analytics;
 - :dart: Experiência em Machine Learning, Analytics e Data Visualization;
