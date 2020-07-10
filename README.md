@@ -1,6 +1,6 @@
 ## Fala galera :raised_hand:
 
-Me chamo Leonardo Fiatkoski, atuo como Data Scientist 👨‍💻 e Kaggle e UCI são meu playground. 
+Me chamo Leonardo Fiatkoski, atuo como Data Scientist 👨‍💻 e o Kaggle e UCI são meus playgrounds. 
 
 - :computer: Bacharel em Sistemas de Informação;
 - :chart_with_upwards_trend: MBA em Business Analytics;
