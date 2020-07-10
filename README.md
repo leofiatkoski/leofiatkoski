@@ -1,10 +1,12 @@
 ## Fala galera :raised_hand:
 
-Me chamo Leonardo Fiatkoski, atuo como Data Scientist 👨‍💻 e o Kaggle e UCI são meus playgrounds. 
+Me chamo Leonardo Fiatkoski, atuo como Data Scientist 👨‍💻 e resolvi tomar vergonha para iniciar meu portfólio na plataforma. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+
+
 
 - :computer: Bacharel em Sistemas de Informação;
 - :chart_with_upwards_trend: MBA em Business Analytics;
-- :dart: Experiência em Machine Learning, Analytics e Data Visualization;
+- :dart: 7 anos de experiência em Analytics, Machine Learning e Data Visualization;
 
 ## 📫 Contato:
 - LinkedIn - [Leonardo Fiatkoski](https://in.linkedin.com/in/leo-fiat)
