@@ -1,16 +1,16 @@
-### Hi there 👋
+## Fala galera :raised_hand:
 
-<!--
-**leofiatkoski/leofiatkoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Leonardo Fiatkoski, atuo como Data Scientist 👨‍💻 e sou apaixonado por Code to Business. 
 
-Here are some ideas to get you started:
+- :octocat: Atuando como Data Scientist;
+- :computer: Bacharel em Sistemas de Informação;
+- :chart_with_upwards_trend: MBA em Business Analytics;
+- :dart: Experiência em Machine Learning, Analytics e Data Visualization;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato:
+- LinkedIn - [Leonardo Fiatkoski](https://in.linkedin.com/in/leo-fiat)
+
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+</div>
