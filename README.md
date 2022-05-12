@@ -7,7 +7,7 @@ Me chamo Leonardo Fiatkoski, atuo como Data Scientist 👨‍💻 e resolvi toma
 - :computer: Bacharel em Sistemas de Informação;
 - :chart_with_upwards_trend: MBA em Business Analytics;
 - :beer: Formação Cientista de Dados na Data Science Academy concluída;
-- :cyclone: Formação Engenheiro de Machine Learning em progresso.
+- :cyclone: Formação Análise Estatística para Ciencia de Dados da Data Science Academy concluída.
 
 ## 📫 Contato:
 - LinkedIn - [Leonardo Fiatkoski](https://in.linkedin.com/in/leo-fiat)
